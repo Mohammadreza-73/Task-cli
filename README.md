@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This project inspired by PHP [roadmap.sh](https://roadmap.sh/projects/task-tracker) projects.
+
 # Task-cli
 Task Tracker is a simple command-line interface (CLI) application built with PHP to help you manage your tasks. With this tool, you can easily add, update, delete, and track the status of your tasks. The application stores all tasks in a JSON file, making it easy to manage and retrieve your tasks at any time.
 
