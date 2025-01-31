@@ -20,6 +20,8 @@ chmod +x task-cli.php
 
 # Usage
 ``` bash
+./task-cli.php [action] [arguments]
+
 ./task-cli.php add "Buy groceries"
 # Output: Task added successfully (ID: <unique id>)
 ./task-cli.php update 1 "Buy groceries and cook dinner"
